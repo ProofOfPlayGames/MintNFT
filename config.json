@@ -1,0 +1,48 @@
+{
+  "tokenStandard": "nft",
+  "number": 10000,
+  "symbol": "POPC",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "ERd6QhQRfaYLtq3zhhtfSVxqJAQQGH8HCLykpCVLADGP",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "tokenBurn": {
+        "amount": 500000000000,
+        "mint": "2euuptKpeWxbde6x46joDMDJCmnydu9ovjUAMgofQm9y"
+      },
+      "solPayment": {
+        "value": 0.005,
+        "destination": "ERd6QhQRfaYLtq3zhhtfSVxqJAQQGH8HCLykpCVLADGP"
+      },
+      "botTax": {
+        "value": 0.001,
+        "lastInstruction": true
+      },
+      "mintLimit": {
+        "id": 1,
+        "limit": 5
+      },
+      "startDate": {
+        "date": "2023-10-01T01:00:00Z"
+      }
+    }
+  },
+  "maxEditionSupply": null
+}
+
+

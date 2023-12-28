@@ -1,0 +1,46 @@
+{
+  "name": "POP Games - Controllers #7238",
+  "symbol": "POPC",
+  "description": "Proof of Play Games - NFT Controllers",
+  "seller_fee_basis_points": 500,
+  "image": "7238.png",
+  "external_url": "https://popgames.net/",
+  "edition": 7238,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "Bottom_7"
+    },
+    {
+      "trait_type": "Middle",
+      "value": "Middle_12"
+    },
+    {
+      "trait_type": "Stem",
+      "value": "Stem_3"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Top_3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7238.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ERd6QhQRfaYLtq3zhhtfSVxqJAQQGH8HCLykpCVLADGP",
+        "share": 100
+      }
+    ]
+  }
+}
